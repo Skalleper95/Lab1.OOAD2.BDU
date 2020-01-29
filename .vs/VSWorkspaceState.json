@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer",
+    "\\BusinessLayer\\Properties",
+    "\\GUI",
+    "\\GUI\\bin",
+    "\\GUI\\bin\\Debug",
+    "\\GUI\\bin\\Release",
+    "\\GUI\\obj",
+    "\\GUI\\obj\\Debug",
+    "\\GUI\\obj\\Release"
+  ],
+  "SelectedNode": "\\GUI",
+  "PreviewInSolutionExplorer": false
+}
